@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageProcessing</string>
+    <string name="select_img_button">Select Image</string>
+    <string name="radio_button1">Edge Detection</string>
+    <string name="radio_button2">Gaussian Blur</string>
+    <string name="radio_button3">Sharpen</string>
+    <string name="photo_button">Take Photo</string>
+</resources>
